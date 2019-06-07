@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "SalesOrders.SalesOrders",
+        "description": "Sales Orders List Report App",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#SalesOrders-Display",
+        "navigationComponentName": "SalesOrders",
+        "intentSemanticObject": "SalesOrders",
+        "intentAction": "Display",
+        "html5ApplicationName": "salesorders",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "57c0fa78-c15c-4e4f-bf35-54656217c836-1559537692841"
+        ],
+        "contentPackages": [
+            "a7dceca3-bb4e-4751-81b0-9c42c4479313"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "My Sales Orders",
+        "subtitle": "Manage",
+        "searchKeywords": "My Sales Orders,Manage",
+        "displayIconUrl": "sap-icon://my-sales-order",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
