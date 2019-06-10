@@ -2,7 +2,6 @@
     "application": {
         "id": "",
         "title": "SalesOrders.SalesOrders",
-        "description": "Sales Orders List Report App",
         "type": "SAP_UI5_Component",
         "componentUrl": "/",
         "appUrl": "#SalesOrders-Display",
@@ -14,19 +13,19 @@
     },
     "assignment": {
         "groups": [
-            "57c0fa78-c15c-4e4f-bf35-54656217c836-1559537692841"
+            "331351fc-549b-43f2-bf66-185c562ad8d8-1560146454462"
         ],
         "contentPackages": [
-            "a7dceca3-bb4e-4751-81b0-9c42c4479313"
+            "5f44eb45-4415-4da2-a09f-42a2dd9dd0f1-1560146420573"
         ],
         "categories": []
     },
     "tile": {
         "type": "StaticTile",
-        "title": "My Sales Orders",
-        "subtitle": "Manage",
-        "searchKeywords": "My Sales Orders,Manage",
-        "displayIconUrl": "sap-icon://my-sales-order",
+        "title": "Title",
+        "subtitle": "Subtitle",
+        "searchKeywords": "Title,Subtitle",
+        "displayIconUrl": "sap-icon://approvals",
         "displayInfoText": "",
         "size": "1x1",
         "serviceURL": "",
