@@ -78,6 +78,7 @@
 						<PropertyPath>SalesOrderID</PropertyPath>
 						<PropertyPath>CustomerName</PropertyPath>
 						<PropertyPath>NetAmount</PropertyPath>
+						<PropertyPath >LifecycleStatusDescription</PropertyPath>
 					</Collection>
 				</Annotation>
 				<Annotation Term="UI.HeaderInfo">
